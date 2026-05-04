@@ -1,0 +1,7 @@
+C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\publish\CloudComparisonApp.exe
+C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\publish\appsettings.Development.json
+C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\publish\appsettings.json
+C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\publish\CloudComparisonApp.dll
+C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\publish\CloudComparisonApp.deps.json
+C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\publish\CloudComparisonApp.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\publish\CloudComparisonApp.pdb
