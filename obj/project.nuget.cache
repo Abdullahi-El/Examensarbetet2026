@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "61Dp6NFcIPQ=",
+  "dgSpecHash": "OR78X12x6dw=",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\OneDrive\\Desktop\\Examensarbete2026\\AWS\\CloudComparisonApp\\CloudComparisonApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\10.0.5\\microsoft.netcore.app.runtime.linux-x64.10.0.5.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\10.0.5\\microsoft.aspnetcore.app.runtime.linux-x64.10.0.5.nupkg.sha512",
-    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\10.0.5\\microsoft.netcore.app.host.linux-x64.10.0.5.nupkg.sha512"
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.25\\microsoft.netcore.app.runtime.linux-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.25\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.25.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.25\\microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
   ],
   "logs": []
 }
