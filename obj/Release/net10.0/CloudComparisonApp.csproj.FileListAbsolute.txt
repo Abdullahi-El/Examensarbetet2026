@@ -95,3 +95,4 @@ C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\obj\Rele
 C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\obj\Release\net10.0\CloudComparisonApp.pdb
 C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\obj\Release\net10.0\CloudComparisonApp.genruntimeconfig.cache
 C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\obj\Release\net10.0\ref\CloudComparisonApp.dll
+C:\Users\DELL\OneDrive\Desktop\Examensarbete2026\AWS\CloudComparisonApp\obj\Release\net10.0\CloudComparisonApp.sourcelink.json
